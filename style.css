@@ -14,45 +14,38 @@ width: 100%;
     min-width: 1430px;
     height: 939px;
 }
-.block-inside {
-
-
-}
 .block-1 .mar705 {
     margin-top: 100px;
     margin-left: 135px;
-    font-family: League Spartan;
-font-size: 24px;
-font-weight: 300;
-line-height: 45px;
-letter-spacing: 0em;
-text-align: left;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
 }
 .block-1 h1 {
     display: inline;
     margin-left: 133px;
     margin-top: 53px;
-    font-family: League Spartan;
-font-size: 250px;
-font-weight: 300;
-line-height: 230px;
-letter-spacing: 0em;
-text-align: left;
-color: #272727;
-padding: 0px;
+    font-size: 250px;
+    font-weight: 300;
+    line-height: 230px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #272727;
+    padding: 0px;
 }
 .block-1 .watch-main-desc {
     margin-left: 135px;
     margin-top: 43px;
-    font-family: League Spartan;
-font-size: 32px;
-font-weight: 300;
-line-height: 50px;
-letter-spacing: 0em;
-text-align: left;
-width: 575px;
-height: 142px;
-margin-bottom: 61px;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 575px;
+    height: 142px;
+    margin-bottom: 61px;
 }
 .buy-price {
     display: flex;
@@ -61,84 +54,66 @@ margin-bottom: 61px;
     margin-left: 135px;
 }
 .buy-button {
-display:inline-flex;
-width: 278px;
-height: 82px;
-background: rgb(22, 21, 21);
+    display:inline-flex;
+    width: 278px;
+    height: 82px;
+    background: rgb(22, 21, 21);
 }
-
 .buy-button a {
     display: flex;
-color: rgb(255, 255, 255);
-font-family: League Spartan;
-font-size: 32px;
-font-weight: 300;
-line-height: 29px;
-text-align: left;
-padding: 26px 74px 35px 73px;
-text-decoration: none;
-
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 29px;
+    text-align: left;
+    padding: 26px 74px 35px 73px;
+    text-decoration: none;
 }
 .price {
-box-shadow: 0px 0px 28px 0px rgba(214, 214, 214, 0.25);
-background: rgb(255, 255, 255);
-width: 143px;
-height: 82px;
+    box-shadow: 0px 0px 28px 0px rgba(214, 214, 214, 0.25);
+    background: rgb(255, 255, 255);
+    width: 143px;
+    height: 82px;
 }
 .price p {
     color: rgb(39, 39, 39);
-font-family: League Spartan;
-font-size: 32px;
-font-weight: 300;
-line-height: 186%;
-letter-spacing: 0%;
-text-align: center;
-margin: 13px 27px 31px 38px;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 186%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 13px 27px 31px 38px;    /*баг - облать цього параграфа більша ніж потрібна*/
 }
 .main-image {
-    margin-left: 130px;
+    margin-left: 50px;
     padding-top: 4px;
 }
 .block-2 {
-margin-inline: auto;
-max-width: 532px;
-}                                                          /* це тест вирівнюванная по центру*/
-.block-2 p {
-    margin-inline: 50%;
-}
-
-.block-2  {
+    margin-inline: auto;
+    max-width: 532px;
     display: flex;
     flex-direction: column;
     color: rgb(0, 0, 0);
-    font-family: League Spartan;
-    text-align: center;
-    justify-content: center;
-}
+}                                                          /* це тест вирівнюванная по центру*/
 .block-2 .p-32 {
     display: flex;
-    font-family: League Spartan;
-        
 }
-
 .block-2 p {
     display: flex;
     flex-direction: column;
     margin: 0;
 }
 .block-2 .popular {
-    font-family: League Spartan;
-font-size: 24px;
-font-weight: 300;
-text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+    text-align: center;
 }
 .block-2 .models {
-    font-family: League Spartan;
-font-size: 72px;
-font-weight: 400;
-line-height: 81px;
-margin: auto;
-margin-bottom: 84px;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 81px;
+    margin: auto;
+    margin-bottom: 84px;
 }
 .image-watch-2 {
     display: flex;
@@ -153,7 +128,6 @@ margin-bottom: 84px;
 }
 .block-2 .son22 {
     color: rgb(0, 0, 0);
-    font-family: League Spartan;
     font-size: 32px;
     font-weight: 400;
     line-height: 29px;
@@ -163,7 +137,6 @@ margin-bottom: 84px;
 }
 .block-2 .son22-desc {
     color: rgb(22, 21, 21);
-    font-family: League Spartan;
     font-size: 32px;
     font-weight: 300;
     line-height: 155%;
@@ -188,16 +161,14 @@ margin-bottom: 84px;
     letter-spacing: 0em;
     text-align: center;
     margin-top: 67px;
-margin-bottom: 17px;
+    margin-bottom: 17px;
 }
 .block-2 .sw12-desc {
-font-family: League Spartan;
-font-size: 32px;
-font-weight: 300;
-line-height: 50px;
-letter-spacing: 0em;
-text-align: center;
-
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: center;
 }
 .sw12-desc-div {
     margin-inline: auto;
@@ -205,17 +176,14 @@ text-align: center;
     margin-bottom: 89px;
 }
 .prod-desc-div {
-    font-family: League Spartan;
-font-size: 32px;
-font-weight: 400;
-line-height: 60px;
-letter-spacing: 0em;
-text-align: center;
-margin-bottom: 58px;
-border-bottom: black 2px;
-display: inline;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 58px;
+    display: inline;
 }
-
 .prod-desc-div p {
     display: inline;
     position: relative;
@@ -225,7 +193,7 @@ display: inline;
     display: block;
     position: absolute;
     background: #707070;
-    width: 33%;
+    width: 33%;             /*на глазок (вибачте)*/
     height: 1px;
     bottom: 0px;
     left: 50%;
@@ -234,18 +202,17 @@ display: inline;
 .last-desc-div {
     display: inline;
     color: rgb(22, 21, 21);
-    font-family: League Spartan;
     font-size: 24px;
     font-weight: 300;
     line-height: 170%;
     letter-spacing: 0%;
     text-align: center;
     max-width: 515px;
+    margin: auto;
     margin-bottom: 142px;
 }
 .last-desc-div p {
     display: inline;
-
 }
 .last-desc-div p span{
     display: inline;
@@ -253,7 +220,6 @@ display: inline;
     color: #BB8B5D;
     font-weight: 500;
 }
-
 .last-desc-div span::before {
     content: "";
     display: block;
@@ -263,4 +229,52 @@ display: inline;
     height: 1px;
     bottom: 3px;
     left: 0px;
+}
+
+@media screen and (max-width: 1240px) {
+    .block-1 {
+        height: 100%;
+        min-width: 100%;
+        flex-direction: column;
+        text-align: center;
+        margin: auto;
+    }
+    .block-inside {
+       width: 100% ;
+       margin: auto;
+       text-align: center;
+    }
+    .block-1 h1 {
+        margin-left: 0px;
+    }
+    .block-1 .watch-main-desc {
+        margin: auto;
+    }
+    .block-1 .mar705 {
+        text-align: center;
+        margin: 0;
+    }
+    .block-1 .buy-price {
+       
+        margin: auto;
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 620px) {
+.block-1 {
+    box-sizing: border-box;
+    min-width: 620px;
+
+}
+.block-inside .watch-main {
+
+}
+.block-inside .watch-main-desc {
+ 
+}
+.block-2 {
+    box-sizing: border-box;
+    min-width: 620px;
+
+}
 }
